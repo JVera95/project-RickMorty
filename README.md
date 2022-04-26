@@ -1,4 +1,4 @@
-# Rick & Morty Web
+# Rick & Morty Web (En proceso)
 
 _Web dedicada a la API de Rick&Morty donde puedes encontrar a los personajes de la famosa serie_
 
